@@ -1,0 +1,3 @@
+Classify this support ticket into Billing, Technical, or Account.
+Ticket: {ticket}
+Category:

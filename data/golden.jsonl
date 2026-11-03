@@ -1,0 +1,12 @@
+{"ticket": "My card was charged $49 even though I cancelled my plan last week.", "category": "Billing"}
+{"ticket": "Where can I download the GST invoice for the previous month?", "category": "Billing"}
+{"ticket": "We want to upgrade from Starter to Business annual plan, how to proceed?", "category": "Billing"}
+{"ticket": "Can I get a refund for the remaining days of my quarterly subscription?", "category": "Billing"}
+{"ticket": "The API keeps returning 500 Internal Server Error when posting JSON payload.", "category": "Technical"}
+{"ticket": "Webhook notifications stopped delivering since 2 PM UTC today.", "category": "Technical"}
+{"ticket": "Database connection times out whenever our ETL sync job runs.", "category": "Technical"}
+{"ticket": "The mobile app crashes on launch after updating to iOS 18.", "category": "Technical"}
+{"ticket": "I forgot my password and the reset link email is not arriving.", "category": "Account"}
+{"ticket": "How do I transfer workspace ownership to another administrator?", "category": "Account"}
+{"ticket": "I need to reset my 2FA authentication app because I got a new phone.", "category": "Account"}
+{"ticket": "My credit card expired, but I cannot log in to update it because my password fails.", "category": "Account"}
